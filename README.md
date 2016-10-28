@@ -9,6 +9,7 @@
 
 ###info.ini
 > 讯飞输入法皮肤基本信息配置文件
+
 	#注意文件为utf-8格式
 	[THEME_INFO]
 	PLATFORM=android
