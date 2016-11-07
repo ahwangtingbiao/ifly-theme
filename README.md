@@ -39,4 +39,17 @@
 
 	#以下内容请勿修改
 	Protocol_Version=1.0
-	Tone=1
+	Tone=1	
+
+###1080
+> 分辨率适配文件夹
+
+###res
+> 图片文件夹
+
+###image.ini
+> 图片配置文件夹
+
+###style.ini
+>
+
